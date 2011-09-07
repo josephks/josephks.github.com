@@ -39,7 +39,7 @@
 
     <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <altDeploymentRepository>snapshot-repo::default::file:/home/jks/work/josephks.github.com/m2-repo/snapshots</altDeploymentRepository>
+      <altDeploymentRepository>snapshot-repo::default::file:/home/jks/work/josephks.github.com/maven-repo/snapshots</altDeploymentRepository>
     </properties>
 
 
