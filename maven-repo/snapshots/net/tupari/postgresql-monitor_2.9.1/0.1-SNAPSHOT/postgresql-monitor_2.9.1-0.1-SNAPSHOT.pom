@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.tupari</groupId>
     <artifactId>postgresql-monitor_2.9.1</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <description>PostgreSQL Monitor</description>
     <version>0.1-SNAPSHOT</version>
     <name>PostgreSQL Monitor</name>
